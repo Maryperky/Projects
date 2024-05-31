@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.con1{
+  background: darkblue;
+  color:white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  position: sticky;
+  Top: 0;
+
+}
+
+body{
+  background:#070707; 
+}
+
+span{
+  color: yellow;
+}
+
+h2{
+  color: White;
+  margin:20px;
+  font-size: 3rem
+ 
+}
+
+p{
+  color: white;
+  margin:20px;
+}
+
+img{
+  margin-left: 20px;
+}
+h3{
+  font-size: 15px;
+  
+}
